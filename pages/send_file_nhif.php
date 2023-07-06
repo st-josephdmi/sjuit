@@ -1,4 +1,6 @@
 <?php
+
+echo "hi";
 include("function.php");
 $patient_id=$_GET['id'];
 $p_date=$_GET['date'];
